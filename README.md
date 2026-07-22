@@ -1,4 +1,4 @@
-# StudyManager
+# StudyManager-console
 StudyManager is a console-based Java application developed to practice Object-Oriented Programming by implementing a CRUD system for managing study tasks.
 
 
